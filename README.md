@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shenal Vanderwall
 
-I'm a Sri Lankan entrepreneur and computer programmer, best known as the founder of [Meeedly](https://meeedly.com) — a pioneering meetings intelligence application used by major corporations around the world. My work focuses on improving virtual collaboration by combining cutting-edge software engineering with business productivity tools.
+I'm a Sri Lankan entrepreneur and computer programmer, best known as the founder of [Meeedly](https://meeedly.com) — a pioneering meetings intelligence application used by major corporations around the world. My innovations have gonen global and I am very glad to do what I do. I hope you may be encouraged to do well looking at my work.
 
 ---
 
@@ -25,7 +25,7 @@ I'm a Sri Lankan entrepreneur and computer programmer, best known as the founder
 
 ## 🧭 My Mission
 
-To build tools that empower organizations to run smarter, more effective virtual meetings — turning raw interactions into actionable intelligence.
+I see technology and innovation in a different eye. My work is a reflection of how I see it. I love developing my vission and bringing it global.
 
 ---
 
@@ -33,9 +33,5 @@ To build tools that empower organizations to run smarter, more effective virtual
 
 - 🔗 [LinkedIn](https://linkedin.com/in/shenalvanderwall)
 - 🌍 [Meeedly](https://meeedly.com)
-- 📧 Email: shenal@meeedly.com
 
 ---
-
-> “Through my work at Meeedly and beyond, I strive to redefine the way organizations engage, collaborate, and grow in the digital era.”  
-> — Shenal Vanderwall
