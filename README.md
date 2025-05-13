@@ -14,7 +14,7 @@ I'm a Sri Lankan entrepreneur and computer programmer, best known as the founder
   A lightweight PHP framework designed for scalable application development, laying the groundwork for future web innovations.
 
 - 🧪 **Research & Innovation**  
-  Conducted early research into **real-time participant engagement** in video conferencing platforms.  
+  Conducted early research into **real-time participant engagement** in video conferencing platforms. Now this technology is being used by all major Ai-Note taking applications to improve their engagement. Over 100 million people globally utilise this technology monthly.
   Introduced the first **API interface with a browser extension** to enhance data insights during online meetings via Meeedly.
 
 - 🎓 **Academic Background**  
